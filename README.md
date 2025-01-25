@@ -30,15 +30,5 @@ I am a cybersecurity professional with a strong passion for defending and protec
 
 ## Connect with Me
 
-<div class="button-container">
-    <a href="https://www.linkedin.com/in/david-garlisch/" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; text-decoration: none; padding: 10px 15px; border-radius: 6px; font-family: Arial, sans-serif; font-size: 14px;">LinkedIn</a>
-    <a href="mailto:davidgar0691@gmail.com" style="display: inline-block; background-color: #d14836; color: white; text-decoration: none; padding: 10px 15px; border-radius: 6px; font-family: Arial, sans-serif; font-size: 14px;">Email Me</a>
-    <a href="https://tryhackme.com/r/p/Davidgar0691" class="tryhackme-button" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #24292f; color: white; text-decoration: none; padding: 10px 15px; border-radius: 6px; font-family: Arial, sans-serif; font-size: 14px;">Visit My TryHackMe Profile</a>
-</div>
-
-<style>
-.button-container {
-    display: flex;
-    gap: 10px;
-}
-</style>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-garlisch/)
+[![Email](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidgar0691@gmail.com)
