@@ -32,3 +32,5 @@ I am a cybersecurity professional with a strong passion for defending and protec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-garlisch/)
 [![Email](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidgar0691@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Visit-green?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Davidgar0691)
+
