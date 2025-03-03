@@ -1,5 +1,5 @@
 ## About Me
-I am a cybersecurity professional with a strong passion for defending and protecting systems, anticipating threats, and ensuring compliance with industry standards. With over 7 years of IT experience and recent academic achievements in cybersecurity, I am excited to contribute to secure and innovative environments.
+I am a cybersecurity professional with a strong passion for defending and protecting systems, anticipating threats, and ensuring compliance with industry standards. With 10 years of IT experience and recent academic achievements in cybersecurity, I am excited to contribute to secure and innovative environments.
 
 ## Below is a collection of my academic achievements, professional certifications, hands-on technical experience, and cybersecurity projects I am working on or improving. Included are my degrees, industry-recognized certifications, examples of academic work, and highlights of my TryHackMe cybersecurity training. Please explore the attachments for additional details.
 
