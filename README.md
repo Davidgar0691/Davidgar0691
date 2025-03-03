@@ -22,7 +22,7 @@ I am a cybersecurity professional with a strong passion for defending and protec
 ---
 
 ## Academic and TryHackMe Training
-- **TryHackMe**: Actively gaining hands-on experience in cybersecurity topics and practical labs.
+- **TryHackMe(Top 5%)**: Actively gaining hands-on experience in cybersecurity topics and practical labs.
 - **SQL and Python Experience**: Learned SQL and Python at WGU for database management and automation scripting.
 - **Capstone Projects**: Enhanced security through Multi-Factor Authentication (MFA) and least privilege principles, focused on GDPR and PCI-DSS compliance for eCommerce platforms and created a Defense In Depth plan for a company.
 
