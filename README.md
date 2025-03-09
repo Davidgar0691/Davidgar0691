@@ -1,5 +1,5 @@
 # **David Garlisch**  
-**Aspiring Cybersecurity Professional | Blue Team Enthusiast | Threat Detection & Incident Response** 
+**Passionate Cybersecurity Professional | Blue Team Enthusiast | Threat Detection & Incident Response** 
 
 ## **About Me**  
 I am a cybersecurity professional with 10 years of IT experience and a passion for securing systems, mitigating threats, and ensuring compliance with industry standards. With a Master’s and Bachelor’s degree in Cybersecurity and Information Assurance, I have developed expertise in threat detection, vulnerability management, incident response, and cybersecurity best practices. I actively enhance my skills through hands-on labs, security research, and continuous learning via TryHackMe (Top 5%).  
