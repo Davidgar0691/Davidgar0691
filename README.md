@@ -77,6 +77,5 @@ This GitHub serves as a collection of my cybersecurity projects, technical exper
 ## **Connect with Me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-garlisch/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github)](https://github.com/Davidgar0691)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Visit-green?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Davidgar0691)  
 [![Email](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidgar0691@gmail.com)  
