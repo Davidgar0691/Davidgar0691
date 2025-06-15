@@ -31,6 +31,11 @@ This GitHub serves as a collection of my cybersecurity projects, technical exper
 - Deployed **Microsoft Sentinel** in Azure, configured log collection, and created **KQL-based analytics rules** to generate security alerts.  
 - Performed **threat hunting in Splunk**, analyzing security events and responding to simulated cyber threats.  
 
+### **Log Analysis & Data Triage**  
+- Analyzed ~9 million simulated Windows security events using **Excel PivotTables and charts**.  
+- Detected abnormal spike in **Event ID 4624** logons tied to a single endpoint, indicating scripted logon attempts.  
+- Correlated PowerShell activity and repetitive timestamps to build a case timeline and visualize anomalies.  
+
 ### **Network Security & Intrusion Detection**  
 - Captured and analyzed network traffic using **Wireshark** and **Zeek**, identifying plaintext data transmissions and detecting anomalies.  
 - Configured **Snort as an IDS/IPS**, tuning detection rules to improve threat visibility.  
@@ -46,11 +51,11 @@ This GitHub serves as a collection of my cybersecurity projects, technical exper
 ### **Programming & Automation**  
 - Developed **Python** and **SQL** scripts for automation, security analysis, and database management.  
 - Utilized **Bash scripting** for file integrity verification, log analysis, and Linux-based security tasks.  
-
+ 
 ---
 
 ## **Hands-On Training & Labs**  
-- **TryHackMe (Top 5%)**: Engaged in cybersecurity challenges, penetration testing, and defensive security labs.  
+- **TryHackMe (Top 3%)**: Engaged in cybersecurity challenges, penetration testing, and defensive security labs.  
 - **Current Training**: Working on completing the **SOC Level 1 Path** on TryHackMe.  
 - **Security Tools & Platforms**: Nmap, Nessus, Metasploit, Snort, Zeek, Splunk, ELK, Wazuh, Azure
 
