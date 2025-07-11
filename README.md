@@ -64,8 +64,9 @@ This GitHub serves as a collection of my cybersecurity projects, technical exper
 ## **Continuous Learning**  
 
 ### **Cybersecurity Books**  
-- *Current Read:* **Sandworm** by Andy Greenberg  
-- Exploring cybersecurity, hacking, and threat intelligence books to deepen my expertise.  
+- *Current Read:**KingPin** by Kevin Poulsen
+- *Just Finished **Sandworm** by Andy Greenberg  
+- I am exploring cybersecurity, hacking, and threat intelligence books to deepen my expertise in a fun engaging way.  
 
 ### **Cybersecurity Podcasts**  
 - *Darknet Diaries*  
